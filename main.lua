@@ -31,7 +31,7 @@ local function OpenInterface()
         game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = game.Players.LocalPlayer.Character.Humanoid.WalkSpeed * 2
     end)
 
-    -- Adiciona funcionalidade de arrastar ao botão de interface
+    -- Adiciona funcionalidade de arrastar ao frame da interface
     local dragging
     local dragStart
 
